@@ -1,4 +1,4 @@
-# How To Share Your Evenrts in NFT Taipei
+# How To Share Your Events in NFT Taipei
 
 # Procedure
 1. Create an event in your Google Calendar
